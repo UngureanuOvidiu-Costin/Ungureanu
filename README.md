@@ -4,7 +4,7 @@
 - I'm currently looking for a job
 
 - I’m learning: **Android Dev | Flutter Development**
-- 
+
 - How to reach me: **ovidiu.ungureanucostin@gmail.com**
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/ovidiu-ungureanu-545897236/
