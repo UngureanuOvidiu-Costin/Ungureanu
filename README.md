@@ -1,7 +1,7 @@
 <h1 align="center">My name is Ungureanu Ovidiu</h1>
 
 
-- I'm currently looking for a job
+- I'm currently looking for a part time
 
 - I’m learning: **Android Dev | Flutter Development**
 
