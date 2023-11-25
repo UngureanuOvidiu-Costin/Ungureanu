@@ -5,7 +5,7 @@
 
 - I’m learning: **Android Dev | Flutter Development**
 
-- How to reach me: **ovidiu.ungureanucostin@gmail.com**
+- How to reach me: **ungureanu.ovidiu@techbattlefield.ro**
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/ovidiu-ungureanu-545897236/
 
