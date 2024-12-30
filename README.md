@@ -3,7 +3,7 @@
 
 - I'm currently looking for a part time
 
-- I’m learning: **Android Dev | Flutter Development**
+- I’m learning: **Java Dev | SpringBoot Development**
 
 - How to reach me: **ungureanu.ovidiu@techbattlefield.ro**
 
