@@ -30,4 +30,4 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UngureanuOvidiu-Costin&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UngureanuOvidiu-Costin)](https://git.io/streak-stats)
