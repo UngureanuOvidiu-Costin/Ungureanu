@@ -2,6 +2,8 @@
 
 - As a developer I’m working with: **Java Dev | SpringBoot Development**
 
+- I post solutions on [**LeetCode**](https://leetcode.com/u/Ungureanu_Ovidiu/) ( Best rank 5000 out of 25000+ participants )
+
 - How to reach me: **ungureanu.ovidiu@techbattlefield.ro**
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/ovidiu-ungureanu-545897236/
