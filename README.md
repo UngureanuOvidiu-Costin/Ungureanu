@@ -32,5 +32,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=UngureanuOvidiu-Costin)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=UngureanuOvidiu-Costin)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UngureanuOvidiu-Costin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
